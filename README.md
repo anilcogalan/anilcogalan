@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Hadoop Environments and Spark  
   
 
-- 🌱 I’m currently learning Cloud Native Technologies  
+- 🌱 I’m currently learning Generative AI
   
 
 - ❓ Ask me about anything related to Data Science  
